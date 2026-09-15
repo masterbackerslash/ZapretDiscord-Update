@@ -179,7 +179,7 @@ sc delete название_из_первого_шага
 - Если Discord и в браузере не работает, то пробуйте ещё раз все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
 - См. также [#252](https://github.com/masterbackerslash/zapret-discord-youtube/discussions/252)
 
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height=18 /> Telegram
+### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Telegram
 
 - Используйте программу [tg-ws-proxy](https://github.com/masterbackerslash/tg-ws-proxy)
 - Или используйте бесплатные MTProto прокси из интернета
